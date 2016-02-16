@@ -1,8 +1,8 @@
 
 apples
-sweet oranges
+sour oranges
 
-sweet apples
+sour apples
 oranges
 
 kiwis
